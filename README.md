@@ -23,4 +23,4 @@ I create tech content on [Youtube](https://www.youtube.com/channel/UChb2cSeIdDoh
 
 ### 📕 Latest Blog Posts
 
-- [Canonical URL -  How to deploy Inertia.js on Heroku 🚀 ](https://dev.to/rabeeaali/how-to-deploy-inertia-js-to-heroku-2cdn)
+- [How to deploy Inertia.js on Heroku 🚀 ](https://dev.to/rabeeaali/how-to-deploy-inertia-js-to-heroku-2cdn)
