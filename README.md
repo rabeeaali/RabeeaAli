@@ -23,4 +23,5 @@ I create tech content on [Youtube](https://www.youtube.com/channel/UChb2cSeIdDoh
 
 ### 📕 Latest Blog Posts
 
+- [Install supervisor on AWS EB with Laravel  ](https://dev.to/rabeeaali/install-supervisor-on-aws-eb-with-laravel-5g8a)
 - [How to deploy Inertia.js on Heroku 🚀 ](https://dev.to/rabeeaali/how-to-deploy-inertia-js-to-heroku-2cdn)
