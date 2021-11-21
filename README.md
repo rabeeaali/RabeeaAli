@@ -11,7 +11,7 @@ I create tech content on [Youtube](https://www.youtube.com/channel/UChb2cSeIdDoh
 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="margin-left: 10px;margin-right: 10px;" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-plain-wordmark.svg" alt="Nuxt" width="90" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="90" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="90" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
