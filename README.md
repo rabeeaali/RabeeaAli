@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Rabeea!
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="10px">, I am Rabeea!
 
 A Software Developer specializing in Laravel & AWS. Professional experience with the technologies listed in the **toolbox** below.
 
