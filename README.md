@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I am Rabeea!
 
-### A Software Developer specializing. I love working experience with the technologies in the below image.
+### A Software Developer. I love working experience with the technologies in the following:
 ## <img src="image.jpeg"/>
 
 
