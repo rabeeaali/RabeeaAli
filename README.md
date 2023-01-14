@@ -1,9 +1,10 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I am Rabeea!
 
-### A Software Developer. I love working with these technologies:
+#### A Software Developer. I love working with these technologies:
 
 <img src="image.jpeg"/>
 
+& more..
 
 ### 📕 Latest Blog Posts
 - [How to reset password via code using Laravel API](https://dev.to/rabeeaali/how-to-reset-password-via-code-using-laravel-api-2f6p)
